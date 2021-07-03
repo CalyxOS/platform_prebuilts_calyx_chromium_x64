@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96394563_b08fecd2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-07-03T21:51:10Z",
+      "side": 1,
+      "message": "This will trigger an update for the emulator fdroid repo, and maybe one more upgrade helps trigger trichrome library install issues?",
+      "revId": "20295c70211177d53038a586a6e89dbf629b77b9",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
