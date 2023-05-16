@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "12c219a4_90233427",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-16T17:21:19Z",
+      "side": 1,
+      "message": "atest is running, seems ok so far.",
+      "revId": "aa5e5ebd4a1a1b792c93bd2740324257b7b05295",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
