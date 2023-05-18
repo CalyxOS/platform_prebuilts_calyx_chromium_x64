@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f54e8fb2_6a7e95f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-18T23:11:46Z",
+      "side": 1,
+      "message": "I don\u0027t know how often we want to update this. maybe only once every major release?\n",
+      "revId": "ddea970d7711e010c675a60d238ed0b33402b77b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
