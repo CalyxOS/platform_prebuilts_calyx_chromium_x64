@@ -16,6 +16,23 @@
       "message": "I don\u0027t know how often we want to update this. maybe only once every major release?\n",
       "revId": "ddea970d7711e010c675a60d238ed0b33402b77b",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a9577b54_2fd9a2e1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-05-18T23:12:03Z",
+      "side": 1,
+      "message": " Also don\u0027t know why the webview apk is so small, it might be broken again :/",
+      "revId": "ddea970d7711e010c675a60d238ed0b33402b77b",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
