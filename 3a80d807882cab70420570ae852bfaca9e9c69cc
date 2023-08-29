@@ -16,6 +16,24 @@
       "message": "Abandon?",
       "revId": "3a80d807882cab70420570ae852bfaca9e9c69cc",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ec815dc_ecd68c9c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-08-29T20:15:19Z",
+      "side": 1,
+      "message": "It\u0027s x64 - aka amd64. For emulator.\n\nI build every major version for it. It has broken in the past, this helps keep it at a recent version to hopefully make testing easier.\n\nStill untested hence not merged.",
+      "parentUuid": "aa0cd3f4_181242d4",
+      "revId": "3a80d807882cab70420570ae852bfaca9e9c69cc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
